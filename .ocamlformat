@@ -1,8 +1,1 @@
-profile = ocamlformat
-let-binding-spacing = sparse
-margin = 80
-break-infix = fit-or-vertical
-break-sequences = true
-break-cases = fit-or-vertical
-break-struct = natural
-type-decl = sparse
+profile = janestreet
